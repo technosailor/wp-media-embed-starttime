@@ -4,7 +4,8 @@ Plugin Name: WP Media Embed Start Time
 Author: Aaron Brazell
 Author URI: http://technosailor.com
 Plugin URI:https://github.com/technosailor/wp-media-embed-starttime
-Description:
+Description: Modifies the built-in WordPress audio and video shortcodes to accept a start attribute. The start attribute is in number of seconds.
+Version: 1.0
 License: MIT
 License URI: https://github.com/technosailor/wp-media-embed-starttime/blob/master/LICENSE
 */
